@@ -6,6 +6,10 @@ The Gateway actuator allows for administrators of the application to define new 
 
 After the application is compiled you should be able to view the existing routes by visiting: http://127.0.0.1:9000/actuator/gateway/routes
 
+
+https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/
+
+
 ### Compile
 
 ```
